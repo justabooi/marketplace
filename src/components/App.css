@@ -1,0 +1,16 @@
+.card{
+  width: 400px;
+  margin-left: 40px;
+  margin-top: 50px;
+  display: block;
+  float: left;
+}
+
+.nav-wrapper{
+  background-color: black;
+}
+
+.nav-wrapper .brand-logo{
+  font-weight: 500;
+  margin-left: 20px;
+}
